@@ -54,11 +54,14 @@ Building my software engineering foundations through hands-on practice, coursewo
 
 ## 📌 Featured Projects
 
-| Project | Description | Status |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [Software Engineering Roadmap](https://github.com/Aboodtt10/software-engineering-roadmap) | My structured learning roadmap and development progress. | In progress |
+| [TaskFlow — Task Manager](https://github.com/Aboodtt10/software-engineering-roadmap/tree/main/projects/01-task-manager) | Task tracking, filters, priorities, and browser persistence. | HTML · CSS · JavaScript |
+| [Pennywise — Expense Tracker](https://github.com/Aboodtt10/software-engineering-roadmap/tree/main/projects/02-expense-tracker) | Income, expenses, category breakdown, and CSV export. | HTML · CSS · JavaScript |
+| [Northstar Market](https://github.com/Aboodtt10/software-engineering-roadmap/tree/main/projects/03-ecommerce-platform) | Sample storefront with search, cart, and simulated checkout. | HTML · CSS · JavaScript |
+| [Student Management System](https://github.com/Aboodtt10/software-engineering-roadmap/tree/main/projects/04-student-management) | Console app demonstrating OOP, validation, and collections. | Java 17 · Maven |
 
-More projects will be added as I build and publish them.
+See the [complete project collection](https://github.com/Aboodtt10/software-engineering-roadmap/tree/main/projects) for source code and learning checklists.
 
 ## 📊 GitHub Overview
 
